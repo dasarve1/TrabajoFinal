@@ -1,7 +1,7 @@
 # TrabajoFinal
 -------------------------------------
 
-# Comandos utilizados
+# Proceso de implementación - Comandos utilizados
 
 ## Construcción de la imagen
 docker build -t trabajofinal:1.0.1 .
